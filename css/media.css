@@ -81,7 +81,7 @@
 		letter-spacing: 0px;
 	}
 	/*contact start*/
-		.c_form{
+	.c_form{
 		margin-top: 40px;
 		margin-bottom: 40px;
 	}
@@ -99,10 +99,14 @@
 	.c_icon li i{
 		font-size: 38px;
 	}
-		/*footer start*/
+	/*footer start*/
+	footer {
+
+		padding-bottom: 80px;
+	}
 	.f_1{
 		text-align: center;
-	
+
 	}
 	.f_2{
 		margin-top: 40px;
@@ -197,6 +201,10 @@
 		font-size: 40px;
 	}
 	/*footer start*/
+	footer {
+    
+    padding-bottom: 80px;
+}
 	.f_1{
 		text-align: center;
 		margin-bottom: 40px;
@@ -235,8 +243,8 @@
 	}
 	/*footer start*/
 	footer{
-	padding-bottom: 100px;
-}
+		padding-bottom: 100px;
+	}
 
 }
 

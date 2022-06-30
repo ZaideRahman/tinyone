@@ -29,6 +29,7 @@ header{
 .menu{}
 .menu ul li a{
 	font-family: PTS75F,sans-serif;
+	font-size: 22px;
 	font-weight: 700;
 	text-transform: capitalize;
 	color: #010101!important;
@@ -218,6 +219,12 @@ footer{
 .f_2 p a{
 	color: #fff;
 	text-decoration: none;
+}
+.p_author {
+    margin-top: 75px;
+    text-align: center;
+    color: #fff;
+    opacity: 0.5;
 }
 
 
